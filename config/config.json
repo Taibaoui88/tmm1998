@@ -1,0 +1,32 @@
+{
+  "development": {
+    "username": "root",
+    "password": "00000000",
+    "database": "mean-api",
+    "host": "127.0.0.1",
+    "dialect": "mysql",
+    "define": {
+      "engine": "MyISAM"
+    }
+  },
+  "test": {
+    "username": "root",
+    "password": "00000000",
+    "database": "mean-api",
+    "host": "127.0.0.1",
+    "dialect": "mysql",
+    "define": {
+      "engine": "MyISAM"
+    }
+  },
+  "production": {
+    "username": "root",
+    "password": "00000000",
+    "database": "mean-api",
+    "host": "127.0.0.1",
+    "dialect": "mysql",
+    "define": {
+      "engine": "MyISAM"
+    }
+  }
+}
